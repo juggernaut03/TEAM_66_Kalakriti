@@ -3,6 +3,10 @@
 ## 🌟 Project Overview
 
 Kalakriti is a comprehensive mobile application designed to bridge the gap between traditional Indian artisans and modern consumers. The platform aims to preserve, promote, and provide sustainable livelihood opportunities for rural craftspeople by creating a digital ecosystem that supports their craft.
+![1](https://github.com/user-attachments/assets/c3171b8e-9489-49db-bf89-0a020537b602)
+![2](https://github.com/user-attachments/assets/e0d02588-3341-42af-a4b3-da02868f333d)
+![3](https://github.com/user-attachments/assets/c7c0477a-be14-4e34-a1a4-1a5b9984d986)
+
 
 ## 🚀 Key Features
 
