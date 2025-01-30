@@ -1,5 +1,8 @@
 # 🏺 Kalakriti: Empowering Indian Artisans Digital Marketplace
+DRIVE VIDEO LINKK
 
+VIDEO LINK--  https://drive.google.com/file/d/1whdwl2GOlgqvgVrgCZc73UuxicilcEYo/view?usp=drive_link
+FOLDER LINK--  https://drive.google.com/drive/u/1/folders/1ZGJZy2FQ-gawCaW9cKzH5WwStUuMAg1-
 ## 🌟 Project Overview
 
 Kalakriti is a comprehensive mobile application designed to bridge the gap between traditional Indian artisans and modern consumers. The platform aims to preserve, promote, and provide sustainable livelihood opportunities for rural craftspeople by creating a digital ecosystem that supports their craft.
